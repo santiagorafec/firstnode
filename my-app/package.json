@@ -1,0 +1,19 @@
+{
+  "name": "my-app",
+  "version": "1.0.0",
+  "description": "A simple node.js app to understand how heroku works and how I can work.",
+  "main": "intro.js",
+  "scripts": {
+    "test": "echo \"Hello World\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/santiagorafec/firstnode.git"
+  },
+  "author": "Santiago Ramirez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/santiagorafec/firstnode/issues"
+  },
+  "homepage": "https://github.com/santiagorafec/firstnode#readme"
+}
